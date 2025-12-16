@@ -1,0 +1,71 @@
+[00:00:00.839] Server  LOG      ✓ Ready in 538ms
+[00:00:03.075] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.213] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:04.213] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/fabrics","route":"/fabrics"}
+[00:00:04.213] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/fabrics color: rgb(120, 120, 120) color: inherit {"dp":"/fabrics","o":"http://localhost:3000/fabrics","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765884863955}
+[00:00:17.353] Browser WARN    Image with src "/cotton-fabric-texture-close-up-soft-natural.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:33.456] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:38.093] Server  ERROR   C:\Users\hp\Desktop\Sewing\.next\dev\server\chunks\ssr\[root-of-the-server]__5e55bc78._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:38.094] Server  ERROR    ⨯ ReferenceError: Navbar is not defined
+[00:00:39.213] Browser ERROR   uncaughtError: ReferenceError: Navbar is not defined
+[00:00:40.448] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:00:40.702] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:41.665] Browser WARN    Image with src "/cotton-fabric-texture-close-up-soft-natural.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:03:40.940] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:58.962] Browser WARN    Image with src "/basic-skirt-pattern-sewing-measurement-diagram.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:04:02.659] Browser ERROR   `DialogContent` requires a `DialogTitle` for the component to be accessible for screen reader users.
+
+If you want to hide the `DialogTitle`, you can wrap it with our VisuallyHidden component.
+
+For more information, see https://radix-ui.com/primitives/docs/components/dialog
+[00:04:02.659] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:04:02.659] Browser ERROR   `DialogContent` requires a `DialogTitle` for the component to be accessible for screen reader users.
+
+If you want to hide the `DialogTitle`, you can wrap it with our VisuallyHidden component.
+
+For more information, see https://radix-ui.com/primitives/docs/components/dialog
+[00:04:02.659] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:04:06.139] Browser ERROR   `DialogContent` requires a `DialogTitle` for the component to be accessible for screen reader users.
+
+If you want to hide the `DialogTitle`, you can wrap it with our VisuallyHidden component.
+
+For more information, see https://radix-ui.com/primitives/docs/components/dialog
+[00:04:06.139] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:04:06.139] Browser ERROR   `DialogContent` requires a `DialogTitle` for the component to be accessible for screen reader users.
+
+If you want to hide the `DialogTitle`, you can wrap it with our VisuallyHidden component.
+
+For more information, see https://radix-ui.com/primitives/docs/components/dialog
+[00:04:06.139] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:04:50.840] Server  LOG      ✓ Compiled in 78ms
+[00:06:06.741] Server  LOG      ✓ Compiled in 49ms
+[00:06:07.214] Browser ERROR   uncaughtError: ReferenceError: Navbar is not defined
+[00:06:08.290] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:08.424] Server  LOG      ✓ Compiled in 41ms
+[00:06:25.620] Server  LOG      ✓ Compiled in 49ms
+[00:06:28.012] Server  LOG      ✓ Compiled in 41ms
+[00:06:46.776] Server  LOG      ✓ Compiled in 141ms
+[00:06:50.971] Server  LOG      ✓ Compiled in 48ms
+[00:06:54.839] Server  LOG      ✓ Compiled in 42ms
+[00:07:00.144] Server  LOG      ✓ Compiled in 37ms
+[00:07:13.689] Server  LOG      ✓ Compiled in 39ms
+[00:07:17.373] Server  LOG      ✓ Compiled in 43ms
+[00:07:18.962] Server  LOG      ✓ Compiled in 39ms
+[00:07:19.910] Server  LOG      ✓ Compiled in 42ms
+[00:07:23.068] Server  LOG      ✓ Compiled in 96ms
+[00:07:32.124] Server  LOG      ✓ Compiled in 86ms
+[00:07:37.128] Server  LOG      ✓ Compiled in 39ms
+[00:07:39.109] Server  LOG      ✓ Compiled in 80ms
+[00:08:18.054] Server  LOG      ✓ Compiled in 38ms
+[00:08:20.824] Server  LOG      ✓ Compiled in 44ms
+[00:08:25.171] Server  LOG      ✓ Compiled in 42ms
+[00:08:31.074] Server  LOG      ✓ Compiled in 59ms
+[00:09:00.674] Server  LOG      ✓ Compiled in 108ms
+[00:09:06.532] Server  LOG      ✓ Compiled in 58ms
+[00:09:07.782] Server  LOG      ✓ Compiled in 48ms
+[00:09:24.179] Server  LOG      ✓ Compiled in 46ms
+[00:09:26.268] Server  LOG      ✓ Compiled in 42ms
+[00:09:39.071] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
